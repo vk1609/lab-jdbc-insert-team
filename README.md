@@ -78,6 +78,7 @@ Download ojdbc6.jar from the given link [https://www.oracle.com/database/technol
 
 1. Create a dao-class called as `CityDA0` with below methods
 	- public City getCityByName(String name) - Method to fetch the city information from database based on the city name.
+	- public createCity()- which takes the city class as argument.
 
 ## Progression 5:
 
